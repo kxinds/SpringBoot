@@ -2,7 +2,7 @@
 
 * 用于记录springboot学习的代码库，以及自身的学习进度。
 
->##[Springboot1](https://kxind.cn)
+>##[Springboot1](https://kxind.cn/springbootdu-qu-pei-zhi-wen-jian/)
 
 1.Springboot入门
 
