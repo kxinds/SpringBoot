@@ -13,4 +13,12 @@
 >##[Springboot2](https://kxind.cn/)
 
 1.Springboot多配置文件的使用及单元测试
+
+>##[Springboot3](https://kxind.cn/)
+
+1.补充springboot1中另一种格式的配置文件
+
+2.springmvc中的动态传参数
+
+
  
