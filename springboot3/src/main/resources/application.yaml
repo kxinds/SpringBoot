@@ -1,0 +1,15 @@
+#这个优先级高
+
+#自定义配置
+kxind:
+  secret: test
+  number: 9999999
+  name: kxind.cn
+  desc: kxind.cn is a domain name
+
+#端口
+server:
+  port: 8090
+
+
+
