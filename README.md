@@ -20,7 +20,7 @@
 
 2.springmvc中的动态传参数
 
->##[Springboot](https://kxind.cn)
+>##[Springboot4](https://kxind.cn)
 
 1. springboot日志log4j2的配置，挺简单的
 
