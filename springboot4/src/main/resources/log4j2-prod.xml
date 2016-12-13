@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+<profiles>
+    <property name="PATTERN">
+        %d{yyyy-MM-dd HH:mm:ss.SSS} |-%-5level [%thread] %c [%L] -| %msg%n
+    </property>
+</profiles>
+    <appenders>
+        <Console name="CONSOLE" target="system_out">
+            <PatternLayout pattern="${PATTERM}" />
+
+        </Console>
+
+
+    </appenders>
+
+
+    <loggers>
+        <logger name="cn.kxind" level="debug" />
+        <root level="info">
+            <appenderref ref="CONSOLE" />
+        </root>
+    </loggers>
+
+
+
+
+
+
+</configuration>
