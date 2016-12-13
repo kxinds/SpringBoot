@@ -24,5 +24,13 @@
 
 1. springboot日志log4j2的配置，挺简单的
 
+>##[Springboot5](https://kxind.cn)
+
+1.整合Hibernate对MySql实现自动建表
+
+2.Springboot 之 JPA对Mysql数据库的增删改查
+
+* 通过实现JpaRepository接口方式实现
+
 
  
