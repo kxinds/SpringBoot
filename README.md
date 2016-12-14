@@ -30,7 +30,14 @@
 
 2.Springboot 之 JPA对Mysql数据库的增删改查
 
-* 通过实现JpaRepository接口方式实现
+* 通过继承JpaRepository类方式实现
 
+>##[Springboot6](https://kxind.cn)
+
+1. spring data jpa 的使用方式 继承 jparepository
+  
+2. HQL的参数的两种方式
+
+3. spring data jpa的一些注解的使用
 
  
