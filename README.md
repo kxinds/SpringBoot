@@ -1,8 +1,11 @@
 # [SpringBoot](https://kxind.cn)
 
+
 * 用于记录springboot学习的代码库，以及自身的学习进度。
 
+
 ##Springboot1
+
 
 1.Springboot入门
 
@@ -10,26 +13,36 @@
 
 3.Springboot的自定义配置文件的读取方式
 
+
 ##Springboot2
+
+
 1.Springboot多配置文件的使用及单元测试
 
 ## Springboot3
+
 
 1.补充springboot1中另一种格式的配置文件
 
 2.springmvc中的动态传参数
 
+
 ##Springboot4
+
 
 1. springboot日志log4j2的配置，挺简单的
 
+
 ##Springboot5
+
 
 1.整合Hibernate对MySql实现自动建表
 
 2.Springboot 之 JPA对Mysql数据库的增删改查
 
-* 通过继承JpaRepository类方式实现
+
+      * 通过继承JpaRepository类方式实现
+
 
 ##Springboot6
 
